@@ -10,12 +10,12 @@
 
 ## Know About Me
 
-I work across backend development in Python and mobile app design in Figma. I'm currently focused on moving into data science and machine learning.
+I work across backend development in Python. I'm currently focused on moving into Automation BOT.
 
 ## Where I Study
 
 - Computer Science student at Inha University, Tashkent (2024–2028)
-- Data Science / Machine Learning track at 21-School
+- ~Data Science / Machine Learning track at 21-School~
 - AI engineering at HumblebeeAI Academy
 
 ## Tech Stack
