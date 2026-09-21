@@ -8,17 +8,17 @@
 
 ---
 
-## Know About Me
+## kam
 
 I work across backend development in Python. I'm currently focused on moving into Automation BOT.
 
-## Where I Study
+## wis
 
 - Computer Science student at Inha University, Tashkent (2024–2028)
 - ~Data Science / Machine Learning track at 21-School~
 - AI engineering at HumblebeeAI Academy
 
-## Tech Stack
+## my flavor
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
